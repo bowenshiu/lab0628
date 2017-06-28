@@ -1,0 +1,8 @@
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\bin\Debug\test0628_GitTry1.exe.config
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\bin\Debug\test0628_GitTry1.exe
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\bin\Debug\test0628_GitTry1.pdb
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\obj\Debug\test0628_GitTry1.csprojResolveAssemblyReference.cache
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\obj\Debug\test0628_GitTry1.Properties.Resources.resources
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\obj\Debug\test0628_GitTry1.csproj.GenerateResource.Cache
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\obj\Debug\test0628_GitTry1.exe
+C:\GitLab\lab0628\test0628_GitTry1\test0628_GitTry1\obj\Debug\test0628_GitTry1.pdb
